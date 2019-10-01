@@ -1,0 +1,6 @@
+C:\Users\jamie\Documents\C# things\CSharpTestingThings\CSharp Fundamentals\bin\Debug\CSharp Fundamentals.exe.config
+C:\Users\jamie\Documents\C# things\CSharpTestingThings\CSharp Fundamentals\bin\Debug\CSharp Fundamentals.exe
+C:\Users\jamie\Documents\C# things\CSharpTestingThings\CSharp Fundamentals\bin\Debug\CSharp Fundamentals.pdb
+C:\Users\jamie\Documents\C# things\CSharpTestingThings\CSharp Fundamentals\obj\Debug\CSharp Fundamentals.csprojAssemblyReference.cache
+C:\Users\jamie\Documents\C# things\CSharpTestingThings\CSharp Fundamentals\obj\Debug\CSharp Fundamentals.exe
+C:\Users\jamie\Documents\C# things\CSharpTestingThings\CSharp Fundamentals\obj\Debug\CSharp Fundamentals.pdb
